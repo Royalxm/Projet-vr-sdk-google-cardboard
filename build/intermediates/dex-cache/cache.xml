@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/libs/mp3spi1.9.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="beccb1a3e766d0bd782a174d7cca0a47ba3b89d8">
+        <dex dex="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/build/intermediates/pre-dexed/debug/mp3spi1.9.4-40490bf78b52feec91911649649eea9860c04879.jar" />
+    </item>
+    <item
+        jar="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/libs/tritonus_share.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5646da280be9f1e07301b35339a376ac640df9f">
+        <dex dex="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/build/intermediates/pre-dexed/debug/tritonus_share-01386e3875e9f7a9c86b40e20fedd770731bec41.jar" />
+    </item>
+    <item
+        jar="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/libs/jl1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2020d545657508bd82beab00359dcc50996b875e">
+        <dex dex="/Users/Royal/Downloads/cardboard-java-master/CardboardSample/build/intermediates/pre-dexed/debug/jl1.0-af31992f618c829683ed03c606887c98b13edc0e.jar" />
+    </item>
+
+</items>
